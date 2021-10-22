@@ -8,7 +8,7 @@ Also, I'm aware there are a lot of very unneccessary bits of code that could eas
 No, I'm not going to fix it. If it works, well, it's good enough. I can write code, not compact it.
 
 ## Requirements
-A version of [CC: Tweaked](https://tweaked.cc/)
+A version of [CC: Tweaked](https://tweaked.cc/) has to be installed.
 
 ## Install
 
