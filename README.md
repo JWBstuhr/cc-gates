@@ -14,6 +14,10 @@ A version of [CC: Tweaked](https://tweaked.cc/) has to be installed.
 
 
 ## Features
-
+Logic Gates (NOT, AND, OR, NAND, NOR, XOR, XNOR)   
+Extra Functions (T-Flip-Flip, Monostable, RS NOR/NAND Latches)   
+Signal Modifiers (Buffer, Extender, Clock, Randomizer)   
+Changing input/output sides   
+Saving & Loading Config quickly from Disks
 
 ## More In-depth Explanation
